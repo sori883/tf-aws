@@ -1,1 +1,7 @@
+# terraform
 *.tfvars
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
+自己証明書/
